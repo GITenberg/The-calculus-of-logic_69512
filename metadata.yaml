@@ -1,0 +1,29 @@
+_repo: The-calculus-of-logic_69512
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Boole, George
+    birthdate: 1815
+    deathdate: 1864
+    gutenberg_agent_id: '5861'
+    url: http://www.gutenberg.org/2009/agents/5861
+    wikipedia: https://en.wikipedia.org/wiki/George_Boole
+description: ''
+gutenberg_issued: '2022-12-10'
+identifiers:
+  gutenberg: '69512'
+language: en
+pgterms:marc904: https://archive.org/details/sim_cambridge-and-dublin-mathematical-journal_1848_7/page/183/mode/1up
+pgterms:marc905: 20221118090351boole
+pgterms:marc906: '1848'
+pgterms:marc907: UK
+production_note: Laura Natal Rodrigues and Ray Papworth (Images generously made available
+  by The Internet Archive.)
+publication_note: 'UK: MACMILLAN, BARCLAY, AND MACMILLAN,1848.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The calculus of logic
+url: http://www.gutenberg.org/ebooks/69512
