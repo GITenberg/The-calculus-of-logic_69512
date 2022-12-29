@@ -1,5 +1,8 @@
 _repo: The-calculus-of-logic_69512
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69512-h/images/cover.jpg
 creator:
   author:
     agent_name: Boole, George
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5861
     wikipedia: https://en.wikipedia.org/wiki/George_Boole
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69512#The-calculus-of-logic
 gutenberg_issued: '2022-12-10'
 identifiers:
   gutenberg: '69512'
